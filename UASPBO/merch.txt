@@ -1,0 +1,6 @@
+T-Shirt,132,3
+Hoodie,98,2
+Keychain,298,2
+Bracelet,117,3
+Pants,88,2
+Sticker,446,4
