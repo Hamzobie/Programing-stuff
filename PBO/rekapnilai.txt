@@ -1,0 +1,12 @@
+Nilai : 90
+Mata Kuliah : IMK
+Nama : Hamdani
+
+Nilai : 100
+Mata Kuliah : Aljabar
+Nama : Hamdani
+
+Nilai : 90
+Mata Kuliah : PBO
+Nama : Hamdani
+
